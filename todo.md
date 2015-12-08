@@ -5,3 +5,5 @@ RELK [RELK](http://www.everybodyhertz.co.uk/setting-up-a-relk-stack-a-how-to/)
 Redis-stat [Redis-stat](https://github.com/junegunn/redis-stat)
 
 Статья о Redis [Статья о Redis](http://habrahabr.ru/post/140893/)
+
+Ruby для Chef [Just Enough Ruby for Chef](https://docs.chef.io/ruby.html)
