@@ -6,7 +6,7 @@ curl -sS https://getcomposer.org/installer | php
 ```
 Если нет curl:
 ```sh
-curl -sS https://getcomposer.org/installer | php
+wget -qO- https://getcomposer.org/installer | php
 ```
 Если хочется глобально:
 ```sh
